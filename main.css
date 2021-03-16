@@ -1,0 +1,123 @@
+section#mainbody{
+	background-color: white;
+	width: 390px;
+	height: 350px;
+	/*text-align: center;*/
+	position: absolute;
+	top: 100px;
+	left: 480px;
+	color: black;
+}
+div#header{
+	/*position: absolute;*/
+	top: 90px;
+	left: 481px,
+}
+div#innerArea{
+	background-color: #00bfff;
+	width: 300px;
+	height: 220px;
+	position: absolute;
+	top: 127px;
+    left: 73px;
+	text-align: center;
+}
+textarea#output{
+	width: 295px;
+	resize: none;
+	background-color: black;
+	color: white;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	font-size: 1.5em;
+	text-align: right;
+	position: absolute;
+    top: 70px;
+    left: 72px;
+}
+textarea.outputstyle{
+	width: px;
+	resize: none;
+	background-color: black;
+	color: white;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	font-size: 1.5em;
+	text-align: right;
+	position: absolute;
+    top: 70px;
+    left: 72px;
+
+}
+table#tablestyl{
+	
+    position: absolute;
+    left: 7px;
+    background-color: white;
+    border: 1px solid black; 
+    position: absolute;
+    top: 2px;
+    left: 3px;
+    
+    border-collapse: collapse;
+
+}
+
+td.cellStyle{
+	background-color: white;
+	width: 70px;
+    height: 40px;
+	color: black;
+	border: 1px solid black; 
+	text-align: center;
+
+}
+td#cell8{
+	border-bottom: 1px solid #ff704d;
+	background-color: #ff704d;
+}
+td#cell16{
+	
+	background-color: #ff704d;
+}
+td#cell12{
+	border-bottom: 1px solid #ff704d;
+	background-color: #ff704d;
+
+}
+td#cell1{
+	/*border-bottom: 1px solid #ff704d;*/
+	background-color: #d6d6c2;
+}
+td#cell2{
+	/*border-bottom: 1px solid #ff704d;*/
+	background-color: #d6d6c2;
+}
+td#cell3{
+	/*border-bottom: 1px solid #ff704d;*/
+	background-color: #d6d6c2;
+}
+td#cell4{
+	/*border-bottom: 1px solid #ff704d;*/
+	background-color: #d6d6c2;
+}
+div#advance_cal{
+	background-color: #00bfff;
+    height: 220px;
+    width: 79px;
+    position: absolute;
+    top: 127px;
+    left: -2px;
+    display: none;
+
+}
+
+table#advance_cal{
+	border-collapse: collapse;
+    position: absolute;
+    top: 2px;
+    left: 5px;
+    
+
+
+}
